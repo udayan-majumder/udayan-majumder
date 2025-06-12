@@ -10,46 +10,51 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 B.Tech CSE @ Techno India University (2026)
-- 💡 2 years UI/UX · 1 year Backend
-- 💻 Built **AidAlert**, **Safe Pulse**, **Betphile**
-- ⚙️ PERN stack architect, clean‑code advocate, user‑centric design
-
----
-
-### 🛠 Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,chakraui,nodejs,express,postgres,threejs,aws,vercel" height="50" />
 </div>
 
 ---
 
-### 💼 Projects
+### 👨‍💻 About Me
 
-| Project      | Description                                                                 | Tech Stack |
-|--------------|-----------------------------------------------------------------------------|------------|
-| **AidAlert** | Real‑time SOS + disaster alerts + weather + geo‑tracking                    | Next.js, ChakraUI, Node.js, JWT, Express |
-| **Safe Pulse** | Women safety platform with live location & alert                          | React, PostgreSQL, WebSockets |
-| **Betphile** | High‑performance SEO product landing deployed via CI/CD                      | Next.js, ChakraUI, Vercel |
+- 🎓 B.Tech in Computer Science & Engineering, Techno India University (Graduating 2026)
+- 💡 2+ years in **UI/UX** and 1+ year in **backend development**
+- ⚙️ Focused on building scalable full-stack apps with the **PERN** stack
+- 🧠 Passionate about **design systems**, **clean architecture**, and **user-first thinking**
 
 ---
 
-### 📊 GitHub Stats + Snake Maze
+### 💼 Projects
+
+| Project      | Description                                                                 | Tech Stack                             |
+|--------------|-----------------------------------------------------------------------------|----------------------------------------|
+| **AidAlert** | Real‑time SOS + disaster alerts + weather + geo‑tracking                    | Next.js, ChakraUI, Node.js, JWT, Express |
+| **Safe Pulse** | Women safety platform with live location & alert                          | React, PostgreSQL, WebSockets          |
+| **Betphile** | High‑performance SEO product landing deployed via CI/CD                     | Next.js, ChakraUI, Vercel              |
+
+---
+
+## 📊 GitHub Stats + Snake Maze
 
 <div align="center">
-  ![Streak](https://streak-stats.demolab.com?user=udayan-majumder&theme=dark)
-  ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=udayan-majumder&theme=dracula)
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=udayan-majumder&theme=dracula)
-  <br><br>
-  <img src="https://raw.githubusercontent.com/udayan-majumder/udayan-majumder/output/snake.svg" alt="Snake contribution maze" width="600"/>
+
+<img src="https://streak-stats.demolab.com?user=udayan-majumder&theme=dark" alt="GitHub Streak" height="150" />
+<br /><br />
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=udayan-majumder&theme=dracula" alt="GitHub Activity Graph" />
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=udayan-majumder&theme=dracula" alt="GitHub Trophy" height="150" />
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/udayan-majumder/udayan-majumder/output/snake.svg" alt="Snake contribution maze" width="600" />
+
 </div>
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:udayanmajumder1983@gmail.com"><img src="https://img.shields.io/badge/Gmail‑D14836?logo=gmail&style=for-the-badge" /></a>
