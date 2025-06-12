@@ -42,7 +42,7 @@
 <img src="https://streak-stats.demolab.com?user=udayan-majumder&theme=dark" alt="GitHub Streak" height="150" />
 <br /><br />
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=udayan-majumder&theme=dracula" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=udayan-majumder&theme=dracula" alt="GitHub Activity Graph" />
 <br /><br />
 
 <img src="https://github-profile-trophy.vercel.app/?username=udayan-majumder&theme=dracula" alt="GitHub Trophy" height="150" />
