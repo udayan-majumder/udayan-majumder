@@ -58,6 +58,6 @@
 
 <p align="center">
   <a href="mailto:udayanmajumder1983@gmail.com"><img src="https://img.shields.io/badge/Gmail‑D14836?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/udayan-majumder"><img src="https://img.shields.io/badge/LinkedIn‑0077B5?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/udayan-majumder-73184a245/"><img src="https://img.shields.io/badge/LinkedIn‑0077B5?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://twitter.com/udayan-majumder"><img src="https://img.shields.io/badge/Twitter‑1DA1F2?logo=twitter&style=for-the-badge" /></a>
 </p>
