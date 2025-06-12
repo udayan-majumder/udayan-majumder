@@ -1,29 +1,28 @@
-name: Snake Maze Contribution
+name: 🐍 Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
+    - cron: "0 0 * * *" # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake contribution graph
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: udayan-majumder
           outputs: |
             ./output/snake.svg
 
-      - name: Commit and push
+      - name: Push to output branch
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A
-          git commit -m "🐍 Update snake.svg" || echo "No changes to commit"
+          git add output/snake.svg
+          git commit -m "Generate new snake graph 🐍" || echo "No changes to commit"
           git push
