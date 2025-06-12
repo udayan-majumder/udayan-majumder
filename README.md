@@ -63,7 +63,7 @@
   <a href="https://www.linkedin.com/in/udayan-majumder-73184a245/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://www.instagram.com/your-instagram-username/">
+  <a href="https://www.instagram.com/shadow_lucifer3000/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" />
   </a>
 </p>
