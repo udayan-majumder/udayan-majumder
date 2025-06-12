@@ -1,8 +1,9 @@
-<h1 align="center">Hey 👋 I'm Udayan Majumder</h1>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2cyYXhjaDdvdGJnM3oyaG0xYmcxcjd3Njd4c3JtaW9iZWJ0cWxtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sTzAXLbAnZ5NvpHd6m/giphy.gif" alt="Welcome GIF" width="400" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2cyYXhjaDdvdGJnM3oyaG0xYmcxcjd3Njd4c3JtaW9iZWJ0cWxtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sTzAXLbAnZ5NvpHd6m/giphy.gif" alt="Welcome GIF" width="1000" />
 </div>
+
+<h1 align="center">Hey 👋 I'm Udayan Majumder</h1>
 
 <p align="center">
   🚀 Full Stack Developer | 🔥 UI/UX Specialist | 💻 Backend Engineer
