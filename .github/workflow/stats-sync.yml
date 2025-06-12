@@ -1,0 +1,14 @@
+name: Refresh Stats Cache
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Cache bust
+        run: curl -s "https://github-readme-stats.vercel.app/api?username=udayan-majumder&cache_bust=$(date +%s)"
